@@ -1,1 +1,1 @@
-"# SmartOS Project" 
+# SmartOS
